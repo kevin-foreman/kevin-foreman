@@ -10,6 +10,13 @@ I'm a full stack developer
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   ⚡  I served in the military for 21+ years!
 
+### Skills
+<p align="left">
+
+
+
+</p>
+
 <!--
 **kevin-foreman/kevin-foreman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
