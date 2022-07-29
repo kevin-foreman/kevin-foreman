@@ -25,9 +25,7 @@ I'm a full stack developer
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="./assets/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="./assets/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="./assets/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
-
-  <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
+<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
 
 </p>
 
@@ -35,6 +33,7 @@ I'm a full stack developer
 
 <p align="left">
  <a href="https://www.twitter.com/masterflextech" target="_blank" rel="noreferrer"><img src="./assets/twitter.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/kevin-o-foreman2/" target="_blank" rel="noreferrer"><img src="./assets/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Support me
