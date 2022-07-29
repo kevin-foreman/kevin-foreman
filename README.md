@@ -20,7 +20,7 @@ I'm a full stack developer
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="./assets/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="./assets/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="./assets/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
   <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
 
