@@ -25,7 +25,7 @@ I'm a full stack developer
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="./assets/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="./assets/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://kali.org" target="blank" rel="noreferrer"><img src="./assets/kali.svg" width="36" height="36" alt="Discord" /></a>
+<a href="https://kali.org" target="blank" rel="noreferrer"><img src="./assets/kali" width="36" height="36" alt="Discord" /></a>
 <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
 
 </p>
