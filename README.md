@@ -26,7 +26,7 @@ I'm a full stack developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="./assets/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="./assets/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://https://distrowatch.com/" target="blank" rel="noreferrer"><img src="./assets/linux-tux.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://kali.org" target="blank" rel="noreferrer"><img src="./assets/kali.svg" width="36" height="36" alt="Kali Linux" /></a>
+<a href="https://kali.org" target="blank" rel="noreferrer"><img src="./assets/kali-dragon.svg" width="36" height="36" alt="Kali Linux" /></a>
 <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
 
 </p>
